@@ -18,12 +18,11 @@
 1)	That late spring to early summer seemed to be not only when there a higher number of campaigns are started but also the lowest proportion of those campaigns fail. Perhaps the contributors have just received their tax returns and are feeling generous. 
 2)	Conversely, campaigns kicked off at the end of the year are far fewer and have a much higher rate of failure, almost pushing half by December. This time coincide with the holidays when contributors may be utilizing their dollars to entertain family or buying Christmas presents for their kids.
 
+### After analyzing the success rate based on the amount a given campaign was attempting to raise, I came the conclusion that the modest campaigns had a much higher rate of success and that the more you asked for the smaller your chances got of being successful. The proportional anomaly in this analysis was the percentage of successful campaigns between $35k and $45k. I believe that this can be attributed to the extremely low number of campaigns started therefore each one having an outsized effect on the on the overall percentage.
 
-## After analyzing the success rate based on the amount a given campaign was attempting to raise, I came the conclusion that the modest campaigns had a much higher rate of success and that the more you asked for the smaller your chances got of being successful. The proportional anomaly in this analysis was the percentage of successful campaigns between $35k and $45k. I believe that this can be attributed to the extremely low number of campaigns started therefore each one having an outsized effect on the on the overall percentage.
+### The criteria we were provided from Kickstarter limited our analysis to a very narrow number of possibilities for why a campaign was or was not successful.  There are a number of factors in the success of a campaign that potentially had an impact yet were not part of the dataset. 
 
-## The criteria we were provided from Kickstarter limited our analysis to a very narrow number of possibilities for why a campaign was or was not successful.  There are a number of factors in the success of a campaign that potentially had an impact yet were not part of the dataset. 
-
-## Additional analysis could be done however with the current dataset that may prove useful. For instance: 
+### Additional analysis could be done however with the current dataset that may prove useful. For instance: 
 -	What country had the highest proportion of successful campaigns? Perhaps it’s time for some world travel.
 -	What was the effect on the success of a campaign if it was a Staff Picks versus those that were not? 
 -	What were the most successful fundraisers within the theater category? Should we turn our play into a musical?
